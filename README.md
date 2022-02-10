@@ -5,4 +5,4 @@
 ## The Implementation
 
 ## Results
-![Results]output.mpg
+![Results](./output.mpg)
